@@ -1,0 +1,19 @@
+.section-container--learning {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.section-container--learning h2 {
+    margin-bottom: 20px;
+}
+
+.section-container--learning p {
+    margin-bottom: 20px;
+}
+
+.section-container--learning img {
+    margin-top: 25px;
+    margin-left: 0;
+}
